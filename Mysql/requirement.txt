@@ -1,0 +1,1 @@
+mysqul-connector-python==8.0.34
